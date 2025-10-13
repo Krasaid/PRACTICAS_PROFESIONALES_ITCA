@@ -1,0 +1,13 @@
+MODELS/Alumno.class
+DAO/PropuestaDAO.class
+com/amaccs/sistemapracticaslaborales/JakartaRestConfiguration.class
+com/amaccs/sistemapracticaslaborales/resources/JakartaEE10Resource.class
+DAO/AlumnoDAO.class
+DAO/CoordinadorDAO.class
+CONTROLLER/PropuestaServlet.class
+MODELS/Propuesta.class
+CONTROLLER/AdminServlet.class
+MODELS/Coordinador.class
+MODELS/testdb.class
+CONTROLLER/LoginServlet.class
+MODELS/ConexionBD.class
