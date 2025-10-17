@@ -1,0 +1,68 @@
+**Sistema Web de Gestión de Prácticas Profesionales para las Áreas de Sistemas y Eléctrica**
+
+---
+
+## 📝 **Planteamiento del Problema por Resolver**
+
+Actualmente, los alumnos de las áreas de Sistemas (hardware y software) y Eléctrica deben cumplir con 320 horas de prácticas profesionales para poder iniciar su servicio profesional.
+
+El proceso de gestión de estas prácticas suele ser manual, lo que genera problemas como:
+
+- Pérdida de información sobre propuestas enviadas.
+- Dificultad para llevar control de las horas acumuladas de cada alumno.
+- Retrasos en la revisión y aprobación de proyectos.
+- Falta de un canal centralizado de comunicación entre coordinadores y alumnos.
+
+Esto provoca que los estudiantes experimenten demoras en la aprobación de sus prácticas, y que los coordinadores tengan que manejar información dispersa, lo que aumenta el riesgo de errores.
+
+---
+
+## **Justificación**
+
+El desarrollo de este sistema permitirá **digitalizar y centralizar** el proceso de gestión de prácticas profesionales.
+
+Los beneficios serán:
+
+- Ahorro de tiempo para coordinadores y alumnos.
+- Mayor transparencia y trazabilidad de los procesos.
+- Mejor comunicación entre las partes involucradas.
+- Disminución de errores en el cálculo de horas.
+- Reducción de papel y procesos manuales, alineándose con iniciativas de sostenibilidad.
+
+Esto impactará positivamente en el cumplimiento de los tiempos de graduación de los alumnos y en la eficiencia del área administrativa.
+
+---
+
+## **Objetivo General**
+
+Desarrollar una aplicación web que permita a los alumnos registrar propuestas de prácticas profesionales, controlar su avance en horas y recibir retroalimentación en tiempo real, mientras los coordinadores pueden gestionar, aprobar y dar seguimiento a todas las propuestas.
+
+---
+
+##  **Objetivos Específicos**
+
+- Crear un sistema de autenticación para alumnos y coordinadores mediante correo institucional.
+- Implementar un dashboard para alumnos donde puedan:
+    - Enviar propuestas de prácticas.
+    - Consultar el estado de su propuesta (aprobado, en revisión, rechazado).
+    - Ver las horas acumuladas de prácticas.
+- Implementar un dashboard para coordinadores que permita:
+    - Aprobar, rechazar o poner en revisión las propuestas.
+    - Filtrar propuestas por fecha, empresa o estado.
+    - Verificar el avance de horas de cada alumno.
+- Integrar notificaciones automáticas para que los alumnos estén informados de cualquier cambio.
+
+---
+
+## **Limitantes**
+
+- Tiempo de desarrollo limitado al ciclo académico.
+- Disponibilidad de los coordinadores para pruebas y validación.
+- Acceso a servidores para el despliegue de la aplicación.
+- Posible resistencia al cambio por parte de usuarios acostumbrados a procesos manuales.
+
+---
+
+## **Metodología Ágil por Utilizar**
+
+**Scrum** será la metodología principal, ya que permite organizar el proyecto en **sprints** de desarrollo, involucrando constantemente al cordinador de modulo
